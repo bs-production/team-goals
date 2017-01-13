@@ -8,4 +8,5 @@
 
 ### Level 3 
 - You spin the wheel 
-- Shannon will bake you something 
+- Shannon will bake you something** 
+*pending Shannon's availability and willingness
