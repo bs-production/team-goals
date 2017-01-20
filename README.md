@@ -2,12 +2,11 @@
 
 
 # Overarching Goals
-1. 245k Leads
-2. 1% Increase In Conversion 
+1. 
+2. 
 3. 
 
 ## Short Term Goals 
-- Finish CN Sites
 
 ## Backlog
 
