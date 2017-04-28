@@ -3,6 +3,9 @@
 If you have some awesome articles/videos to share. Load em up!
 
 
+## Colors and Colors 
+- https://designschool.canva.com/blog/website-color-schemes/
+
 ## Site Performance
 - https://bitsofco.de/understanding-the-critical-rendering-path/
 
