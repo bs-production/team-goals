@@ -16,16 +16,8 @@
 
 ## Font Stacks
 ```
-Primary Font:
+**Primary Font;**
 "HelveticaNeue", Helvetica, Arial, sans-serif;
-Primary Font Italic:
-"HelveticaNeue", Helvetica, Arial, sans-serif;
-Primary Font Bold:
-"HelveticaNeue", Helvetica, Arial, sans-serif;
-Secondary Font:
-Georgia, Times, "Times New Roman", serif;
-Secondary Font Italic:
-Georgia, Times, "Times New Roman", serif;
-Secondary Font Bold:
+**Secondary Font:**
 Georgia, Times, "Times New Roman", serif;
 ```
