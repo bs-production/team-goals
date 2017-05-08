@@ -38,7 +38,7 @@ WCAG 2.0 level AA requires a contrast ratio of 4.5:1 for normal text and 3:1 for
 Georgia, Times, "Times New Roman", serif;
 
 
-## Design Crimes 
+# Design Crimes 
 
 If you suffer from the below designs. Please call a meeting to get feedback on your project. 
 
