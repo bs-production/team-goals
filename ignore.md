@@ -44,4 +44,4 @@ Georgia, Times, "Times New Roman", serif;
 
 If you suffer from the below designs. Please call a meeting to get feedback on your project. 
 
-### Design 1
+### Example 1
