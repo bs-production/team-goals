@@ -1,4 +1,4 @@
-## Color Stack
+## Primary Stack
 
 ![#f03c15](https://placehold.it/50/f03c15/000000?text=+) `#f03c15`
 
@@ -6,7 +6,7 @@
 
 ![#1589F0](https://placehold.it/50/1589F0/000000?text=+) `#1589F0`
 
-### CTA Color Stack 
+### Secondary Stack 
 
 ![#f03c15](https://placehold.it/50/f03c15/000000?text=+) `#f03c15`
 
@@ -14,6 +14,14 @@
 
 ![#1589F0](https://placehold.it/50/1589F0/000000?text=+) `#1589F0`
 
+
+### CTA Stack 
+
+![#f03c15](https://placehold.it/50/f03c15/000000?text=+) `#f03c15`
+
+![#c5f015](https://placehold.it/50/c5f015/000000?text=+) `#c5f015`
+
+![#1589F0](https://placehold.it/50/1589F0/000000?text=+) `#1589F0`
 
 
 ## Font Stacks
@@ -23,3 +31,10 @@
 
 **Secondary Font:**
 Georgia, Times, "Times New Roman", serif;
+
+
+## Design Crimes 
+
+If you suffer from the below designs. Please call a meeting to get feedback on your project. 
+
+### Design 1
