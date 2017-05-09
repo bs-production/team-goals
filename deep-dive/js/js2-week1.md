@@ -1,6 +1,7 @@
 # Week 1 
 
 Jquery vs Javascript?
+- Never double Jquery
 - http://youmightnotneedjquery.com/
 
 ## Video Series
