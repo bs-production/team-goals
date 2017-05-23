@@ -17,3 +17,7 @@ Look For shield
  
 ![Image of Yaktocat](http://d6449bb3dc657045bfc9-290115cc0d6de62a29c33db202ae565c.r80.cf1.rackcdn.com/1334/Screenshot_2017-05-23_17.12.44.png)
 
+
+If No Shield Check Console
+
+![Image of Yaktocat](http://d6449bb3dc657045bfc9-290115cc0d6de62a29c33db202ae565c.r80.cf1.rackcdn.com/1334/Screenshot_2017-05-23_17.20.11.png)
