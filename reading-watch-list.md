@@ -19,3 +19,8 @@ If you have some awesome articles/videos to share. Load em up!
 - A Modern Front-End Workflow  https://www.youtube.com/watch?v=v5r_n6Tq0uk
 - Tackling B2B and B2C challenges: User Research at HomeAdvisor  [http://info.usertesting.com/tackling-b2b-and-b2c-challenges-user-research-HomeAdvisor_on-demand-webinar-confirmation.html]
 - ES6 Replay https://www.youtube.com/watch?v=LQWPOhnTODU&mc_cid=d88f5e661a&mc_eid=046a9a9b73
+
+
+
+
+# Deep Learning
