@@ -3,7 +3,6 @@
 # Javascript Basics – Lunch n Learn
 
 ### Variables
-Before video:
 Who can tell me what a variable is?   
 Variables are containers for storing data values.
 
