@@ -4,7 +4,7 @@
 
 ### Variables
 Before video:
-Who can tell me what a variable is?
+Who can tell me what a variable is?   
 Variables are containers for storing data values.
 
 https://youtu.be/le-URjBhevE
