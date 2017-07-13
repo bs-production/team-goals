@@ -31,6 +31,7 @@ JavaScript arrays are used to store multiple values in a single variable.
 
 https://youtu.be/nEvBcwlpkBQ?t=31s
 
+
 What would be the numeric index value of the fourth item in an array?  
 `3`
 
