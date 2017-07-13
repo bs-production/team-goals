@@ -56,6 +56,7 @@ Use a javascript method(.write,.alert, etc.)
 ### For Loop
 What would you use a For Loop for?  
 To add the same block of code to multiple locations.
+
 https://youtu.be/24Wpg6njlYI
 
 What part of a For Loop hurts your head?
