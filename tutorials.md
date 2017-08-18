@@ -1,4 +1,4 @@
-# Reading List 
+# Tutorials
 
 If you have some awesome articles/videos to share. Load em up!
 
