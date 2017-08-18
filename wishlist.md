@@ -4,7 +4,7 @@ The place for the big and bold ideas. We will review these once a month.
 
 ## Updates
 
-[ ] CSS Process in CMS
+- [ ] CSS Process in CMS
 
 [ ] Site Build Automation Tool 
 
