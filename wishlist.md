@@ -1,5 +1,7 @@
 # Wishlist 
 
+The place for the big and bold ideas. We will review these once a month.
+
 -[ ] CSS Process in CMS
 
 -[ ] Site Build Automation Tool 
