@@ -3,15 +3,16 @@
 The place for the big and bold ideas. We will review these once a month.
 
 ## Updates
--[ ] CSS Process in CMS
 
--[ ] Site Build Automation Tool 
+[ ] CSS Process in CMS
 
--[ ] Upgrade jQuery UI Elements
+[ ] Site Build Automation Tool 
 
--[ ] Lock Pages In CMS 
+[ ] Upgrade jQuery UI Elements
 
--[ ] Ediatible JS file in CMS
+[ ] Lock Pages In CMS 
+
+[ ] Ediatible JS file in CMS
 
 
 ## Big New Things
