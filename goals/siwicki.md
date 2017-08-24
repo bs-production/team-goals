@@ -28,3 +28,5 @@
 - Data on device type / Data on browser type 
 - Decide what to support and make that public
 - iPhone 5 and above??
+- IE 9/10 Low Low
+- IE 11 Still support 
