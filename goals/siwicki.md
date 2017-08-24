@@ -1,5 +1,9 @@
 ## Todos 
-- 
+- More JS - VueJS/React/Vanilla
+ -- https://es6.io/  and https://learnnode.com/
+- Get more comfortable with animation library 
+- Pick a CSS Preprocessor and stick with it
+- Play with Figma
 - 
 
 ## Goals 
