@@ -1,6 +1,6 @@
 ## Todos 
 - More JS - VueJS/React/Vanilla
- -- https://es6.io/  and https://learnnode.com/
+- https://es6.io/  and https://learnnode.com/
 - Get more comfortable with animation library 
 - Pick a CSS Preprocessor and stick with it
 - Play with Figma
@@ -26,5 +26,5 @@
 
 ## Needs 
 - Data on device type / Data on browser type 
- -- Decide what to support and make that public
- -- iPhone 5 and above??
+- Decide what to support and make that public
+- iPhone 5 and above??
