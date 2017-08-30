@@ -1,6 +1,6 @@
 ## Todos 
 - More JS - VueJS/React/Vanilla
-- https://es6.io/  and https://learnnode.com/
+- Do This Training https://es6.io/  
 - Get more comfortable with animation library 
 - Pick a CSS Preprocessor and stick with it
 - Play with Figma
@@ -16,7 +16,7 @@
 
 ## Ideas 
 - Redesign Module Pages
-- https://storybook.js.org/  or component library to build new pages
+- https://storybook.js.org/  or component library to build new pages could help with landing page idea
 - Style Guides for BS/DES/AS/
 - Main Message System
 - 5 CNGO Templates
