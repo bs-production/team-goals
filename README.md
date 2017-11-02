@@ -1,17 +1,17 @@
 # Goals and Goats
 
 ## Team Goals 
-- Every Site Google Pagespeed Score Above 85
+- [ ] Every Site Google Pagespeed Score Above 85
 
 
 ## Ideas 
-- Build Nachos for all https://design.trello.com/
-- Redesign Module Pages
-- Style Guides for BS/DES/AS/
-- Main Message System
-- 5 CNGO Templates
-- 3 New Site Templates
-- Redo Contractor Nation.com 
+- [ ] Build Nachos for all https://design.trello.com/
+- [ ] Redesign Module Pages
+- [ ] Style Guides for BS/DES/AS/
+- [ ] Main Message System
+- [ ] 5 CNGO Templates
+- [ ] 3 New Site Templates
+- [ ] Redo Contractor Nation.com 
 
 
 ## Wild Ideas
