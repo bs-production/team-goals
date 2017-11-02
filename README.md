@@ -17,6 +17,7 @@
 - 5 CNGO Templates
 - 3 New Site Templates
 - Redo Contractor Nation.com 
+- Redesign Contact Form & 4 step form
 
 - SVG Logos
 - VueJS for Landing Pages
