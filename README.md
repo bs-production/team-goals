@@ -1,12 +1,13 @@
 # Goals and Goats
 
+## Brainstorming
+- Build Nachos for all https://design.trello.com/
+
+
+
+
 ## Team Goals 
 - Every Site Google Pagespeed Score Above 85
-- SVG Logos
-- VueJS for Landing Pages
-- CSS Processing in The CMS
-- Ediatible JS file in CMS
-
 
 ## Ideas 
 - Redesign Module Pages
@@ -16,3 +17,8 @@
 - 5 CNGO Templates
 - 3 New Site Templates
 - Redo Contractor Nation.com 
+
+- SVG Logos
+- VueJS for Landing Pages
+- CSS Processing in The CMS
+- Ediatible JS file in CMS
