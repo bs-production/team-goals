@@ -2,11 +2,12 @@
 
 ## Team Goals 
 - [ ] Every Site Google Pagespeed Score Above 85
-
-
-## Ideas 
+- [ ] Redesign Big D's 
 - [ ] Build Nachos for all https://design.trello.com/
 - [ ] Redesign Module Pages
+  - Photo Gallery
+
+## Ideas 
 - [ ] Style Guides for BS/DES/AS/
 - [ ] Main Message System
 - [ ] 5 CNGO Templates
