@@ -3,17 +3,17 @@
 ## Team Goals 
 - [ ] Every Site Google Pagespeed Score Above 85
 - [ ] Redesign Big D's 
-- [ ] Build Nachos for all https://design.trello.com/
-- [ ] Redesign Module Pages
-  - Photo Gallery
+
 
 ## Ideas 
 - [ ] Style Guides for BS/DES/AS/
+- [ ] SVG Icon System To Replace Font Awesome
 - [ ] Main Message System
 - [ ] 5 CNGO Templates
 - [ ] 3 New Site Templates
 - [ ] Redo Contractor Nation.com 
-
+- [ ] Build Nachos for all https://design.trello.com/
+- [ ] Redesign Module Pages
 
 ## Wild Ideas
 - SVG Logos
