@@ -22,10 +22,6 @@ If you have some awesome articles/videos to share. Load em up!
 - ES6 Replay https://www.youtube.com/watch?v=LQWPOhnTODU&mc_cid=d88f5e661a&mc_eid=046a9a9b73
 
 
-
-
-
-
 ## CSS 
  
  
@@ -43,3 +39,7 @@ If you have some awesome articles/videos to share. Load em up!
 ### Next Steps
 - Vue 2 - https://laracasts.com/series/learn-vue-2-step-by-step/episodes/1
 - Node - https://www.lynda.com/Node-js-tutorials/Learning-Node-js/612195-2.html
+
+
+## Case Studies
+https://github.com/andrew--r/frontend-case-studies
